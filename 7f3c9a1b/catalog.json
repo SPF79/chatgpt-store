@@ -1,0 +1,9 @@
+{
+  "schema": "chatgpt-store/v1",
+  "root": "7f3c9a1b",
+  "projects": {
+    "Generic": { "bundle": "Generic.bundle.json" },
+    "MountOlympus": { "bundle": "MountOlympus.bundle.json" },
+    "MusicCamp": { "bundle": "MusicCamp.bundle.json" }
+  }
+}
